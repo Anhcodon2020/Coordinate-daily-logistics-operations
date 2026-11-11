@@ -1,0 +1,6 @@
+{
+  "name": "Điều Phối Lao Động Kho Vận",
+  "description": "Hệ thống điều phối lao động kho hàng ngày, phân ca, quản lý cửa dock, đồng bộ Google Sheets và báo cáo năng suất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
